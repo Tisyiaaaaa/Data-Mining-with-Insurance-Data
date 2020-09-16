@@ -5,6 +5,7 @@
 
 # In[1]:
 
+heroku/python
 
 import streamlit as st
 import numpy as np
